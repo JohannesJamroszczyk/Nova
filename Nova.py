@@ -18,7 +18,7 @@ from bs4.element import Comment
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-print("commit2")
+print("commit3")
 
 def resource_path(relative_path):
     if hasattr(sys, '_MEIPASS'):
